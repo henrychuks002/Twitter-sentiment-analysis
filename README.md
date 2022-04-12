@@ -1,4 +1,4 @@
 # Twitter-sentiment-analysis
-Sentiment analysis model
-Variables - Positive. Neutral. Negative
+Sentiment analysis model </br>
+Variables - Positive. Neutral. Negative </br>
 Classification models used - Logistic Regression. Linear SVC. GridSearchCV
